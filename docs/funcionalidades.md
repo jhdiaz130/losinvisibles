@@ -8,13 +8,13 @@ Funcionalidades Base:
 
 ## 1. Registro de ingresos y gastos
 
-  1.1Agregar ingreso (monto, descripción, fecha).
+Agregar ingreso (monto, descripción, fecha).
 
-  1.2Agregar gasto (monto, categoría, descripción, fecha).
+Agregar gasto (monto, categoría, descripción, fecha).
 
-  1.3Botón flotante (FAB) para agregar movimientos.
+Botón flotante (FAB) para agregar movimientos.
 
-  1.4Guardar en Firebase Firestore.
+Guardar en Firebase Firestore.
 
 ## 2. Categorías básicas
 
