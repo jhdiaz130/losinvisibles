@@ -34,7 +34,7 @@ Servicios
 
 ## 3.  Pantalla principal (Dashboard)
 
-3.1Mostrar:
+Mostrar:
 
 Total ingresos del mes
 
@@ -62,50 +62,50 @@ Estas ya hacen que tu proyecto se vea MUCHO más profesional:
   
 El usuario puede decir:
 
-  5.2"Para comida tengo máximo $400.000"
+"Para comida tengo máximo $400.000"
 
-  5.3La app:
+La app:
 
-  Lleva el acumulado.
+Lleva el acumulado.
 
-  Muestra barra de progreso.
+Muestra barra de progreso.
 
-  Cambia a rojo cuando supera el límite.
+Cambia a rojo cuando supera el límite.
 
-  Muestra alerta tipo Toast o Dialog.
+Muestra alerta tipo Toast o Dialog.
 
 ## 6.  Gráficas
 
-  6.1Puedes usar:
+Puedes usar:
 
-  6.2MPAndroidChart
+MPAndroidChart
 
-  6.3Gráficas recomendadas:
+Gráficas recomendadas:
 
-  6.4Barras -> Gastos por categoría
+Barras -> Gastos por categoría
 
-  6.5Pastel -> Distribución de gastos
+Pastel -> Distribución de gastos
 
-  6.6Esto hace que tu proyecto suba muchísimo de nivel visual.
+Esto hace que tu proyecto suba muchísimo de nivel visual.
 
 ## 7.  Filtro por fechas
 
-  7.1Ver solo este mes
+Ver solo este mes
 
-  7.2Ver semana actual
+Ver semana actual
 
-  7.3Ver por rango personalizado
+Ver por rango personalizado
 
-  7.4Muy útil y no tan complejo.
+ Muy útil y no tan complejo.
 
 ## 8. Sistema de autenticación
 
-  8.1Con Firebase Authentication:
+Con Firebase Authentication:
 
-  8.2Registro
+Registro
 
-  8.3Login
+Login
 
-  8.4Cada usuario ve solo sus datos
+Cada usuario ve solo sus datos
 
-  8.5Esto lo vuelve más real.
+Esto lo vuelve más real.
