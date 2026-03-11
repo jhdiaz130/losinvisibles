@@ -34,6 +34,6 @@ Aplicaciones similares:
 3.https://play.google.com/store/apps/details?id=org.ultimatetoolsil.mike.note
 
 
-|-----------------------------------------------------------------------------|
+
 |PROYECTO ELEGIDO: Organizando tus finanzas de ANGGELY VALENTINA ACERO MOSCOSO|
 |-----------------------------------------------------------------------------|
