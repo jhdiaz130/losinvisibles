@@ -1,8 +1,8 @@
 # Ideas de proyecto
 
-##IDEA 1:
+##Idea 1
 
-## ANGGELY VALENTINA ACERO MOSCOSO
+##: ANGGELY VALENTINA ACERO MOSCOSO
 PROYECTO: Organizando tus finanzas
 Descripción
 - Una app donde el usuario registre ingresos y gastos diarios para mejorar la financiación y ver sus ingresos y egresos diarios, 
