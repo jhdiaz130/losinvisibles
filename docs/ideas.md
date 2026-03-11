@@ -19,10 +19,21 @@ Finerio: Permite la vinculación de tarjetas bancarias para categorización auto
 
 ## Idea 2
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+PROYECTO: Notas
+##: JHEINER ESTIVEN DIAZ BARAJAS
+
+Descripción
+Crear una aplicación para tener Bloq de notas, 
+interactivo para personas olvidadizos con notificación para recordar las actividades que se hará en cierto dia
 
 Aplicaciones similares:
+1.https://play.google.com/store/apps/details?id=com.google.android.keep
 
-- ...
-- ...
-- ...
+2.https://play.google.com/store/apps/detailsid=com.socialnmobile.dictapps.notepad.color.note
+
+3.https://play.google.com/store/apps/details?id=org.ultimatetoolsil.mike.note
+
+
+|-----------------------------------------------------------------------------|
+|PROYECTO ELEGIDO: Organizando tus finanzas de ANGGELY VALENTINA ACERO MOSCOSO|
+|-----------------------------------------------------------------------------|
