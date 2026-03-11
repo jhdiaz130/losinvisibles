@@ -96,7 +96,7 @@ Ver semana actual
 
 Ver por rango personalizado
 
- Muy útil y no tan complejo.
+Muy útil y no tan complejo.
 
 ## 8. Sistema de autenticación
 
