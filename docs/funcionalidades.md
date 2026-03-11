@@ -6,7 +6,7 @@ FUNCIONALIDADES DE LA APLICACION
 
 Funcionalidades Base:
 
-1. Registro de ingresos y gastos
+## 1. Registro de ingresos y gastos
 
   1.1Agregar ingreso (monto, descripción, fecha).
 
@@ -16,7 +16,7 @@ Funcionalidades Base:
 
   1.4Guardar en Firebase Firestore.
 
-2. Categorías básicas
+## 2. Categorías básicas
 
 2.1Categorías predefinidas:
 
@@ -32,7 +32,7 @@ Funcionalidades Base:
 
 (Puedes usar un Spinner o Dropdown)
 
-3.  Pantalla principal (Dashboard)
+## 3.  Pantalla principal (Dashboard)
 
 3.1Mostrar:
 
@@ -44,7 +44,7 @@ Funcionalidades Base:
 
   3.5Esto se puede hacer con consultas simples a Firebase.
 
-4. Lista de movimientos
+## 4. Lista de movimientos
 
   4.1RecyclerView
 
@@ -58,7 +58,7 @@ Funcionalidades Base:
 
   4.6Estas ya hacen que tu proyecto se vea MUCHO más profesional:
 
-5.  Presupuesto mensual por categoría
+## 5.  Presupuesto mensual por categoría
   
   5.1El usuario puede decir:
 
@@ -74,7 +74,7 @@ Funcionalidades Base:
 
   Muestra alerta tipo Toast o Dialog.
 
-6.  Gráficas
+## 6.  Gráficas
 
   6.1Puedes usar:
 
@@ -88,7 +88,7 @@ Funcionalidades Base:
 
   6.6Esto hace que tu proyecto suba muchísimo de nivel visual.
 
-7.  Filtro por fechas
+## 7.  Filtro por fechas
 
   7.1Ver solo este mes
 
@@ -98,7 +98,7 @@ Funcionalidades Base:
 
   7.4Muy útil y no tan complejo.
 
-8. Sistema de autenticación
+## 8. Sistema de autenticación
 
   8.1Con Firebase Authentication:
 
