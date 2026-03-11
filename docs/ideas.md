@@ -27,6 +27,7 @@ Crear una aplicación para tener Bloq de notas,
 interactivo para personas olvidadizos con notificación para recordar las actividades que se hará en cierto dia
 
 Aplicaciones similares:
+
 1.https://play.google.com/store/apps/details?id=com.google.android.keep
 
 2.https://play.google.com/store/apps/detailsid=com.socialnmobile.dictapps.notepad.color.note
