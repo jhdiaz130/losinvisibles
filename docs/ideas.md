@@ -1,5 +1,6 @@
 # Ideas de proyecto
-IDEA 1:
+
+##IDEA 1:
 
 ## ANGGELY VALENTINA ACERO MOSCOSO
 PROYECTO: Organizando tus finanzas
