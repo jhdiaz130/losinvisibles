@@ -18,17 +18,17 @@ Guardar en Firebase Firestore.
 
 ## 2. Categorías básicas
 
-2.1Categorías predefinidas:
+Categorías predefinidas:
 
-  2.2Arriendo
+Arriendo
 
-  2.3Comida
+Comida
 
-  2.4Transporte
+Transporte
 
-  2.5Entretenimiento
+Entretenimiento
 
-  2.6Servicios
+Servicios
 
 (Puedes usar un Spinner o Dropdown)
 
@@ -36,31 +36,31 @@ Guardar en Firebase Firestore.
 
 3.1Mostrar:
 
-  3.2Total ingresos del mes
+Total ingresos del mes
 
-  3.3Total gastos del mes
+Total gastos del mes
 
-  3.4Balance actual (ingresos - gastos)
+Balance actual (ingresos - gastos)
 
-  3.5Esto se puede hacer con consultas simples a Firebase.
+Esto se puede hacer con consultas simples a Firebase.
 
 ## 4. Lista de movimientos
 
-  4.1RecyclerView
+RecyclerView
 
-  4.2Mostrar si es ingreso o gasto
+Mostrar si es ingreso o gasto
 
-  4.3Ordenados por fecha
+Ordenados por fecha
 
-  4.4Opción de eliminar
+Opción de eliminar
 
-  4.5Funcionalidades Intermedias (Aumenta nivel del proyecto)
+Funcionalidades Intermedias (Aumenta nivel del proyecto)
 
-  4.6Estas ya hacen que tu proyecto se vea MUCHO más profesional:
+Estas ya hacen que tu proyecto se vea MUCHO más profesional:
 
 ## 5.  Presupuesto mensual por categoría
   
-  5.1El usuario puede decir:
+El usuario puede decir:
 
   5.2"Para comida tengo máximo $400.000"
 
