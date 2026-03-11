@@ -21,10 +21,8 @@ Finerio: Permite la vinculación de tarjetas bancarias para categorización auto
 
 ## Idea 2
 
-PROYECTO: Notas
-
 ## JHEINER ESTIVEN DIAZ BARAJAS
-
+PROYECTO: Notas
 Descripción
 Crear una aplicación para tener Bloq de notas, 
 interactivo para personas olvidadizos con notificación para recordar las actividades que se hará en cierto dia
