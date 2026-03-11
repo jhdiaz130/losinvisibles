@@ -2,7 +2,7 @@
 
 ##Idea 1
 
-##: ANGGELY VALENTINA ACERO MOSCOSO
+## ANGGELY VALENTINA ACERO MOSCOSO
 PROYECTO: Organizando tus finanzas
 Descripción
 - Una app donde el usuario registre ingresos y gastos diarios para mejorar la financiación y ver sus ingresos y egresos diarios, 
@@ -22,7 +22,8 @@ Finerio: Permite la vinculación de tarjetas bancarias para categorización auto
 ## Idea 2
 
 PROYECTO: Notas
-##: JHEINER ESTIVEN DIAZ BARAJAS
+
+## JHEINER ESTIVEN DIAZ BARAJAS
 
 Descripción
 Crear una aplicación para tener Bloq de notas, 
