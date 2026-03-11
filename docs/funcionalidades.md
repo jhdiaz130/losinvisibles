@@ -8,106 +8,104 @@ Funcionalidades Base:
 
 1. Registro de ingresos y gastos
 
-Agregar ingreso (monto, descripción, fecha).
+  1.1Agregar ingreso (monto, descripción, fecha).
 
-Agregar gasto (monto, categoría, descripción, fecha).
+  1.2Agregar gasto (monto, categoría, descripción, fecha).
 
-Botón flotante (FAB) para agregar movimientos.
+  1.3Botón flotante (FAB) para agregar movimientos.
 
-Guardar en Firebase Firestore.
+  1.4Guardar en Firebase Firestore.
 
 2. Categorías básicas
 
-Categorías predefinidas:
+2.1Categorías predefinidas:
 
-Arriendo
+  2.2Arriendo
 
-Comida
+  2.3Comida
 
-Transporte
+  2.4Transporte
 
-Entretenimiento
+  2.5Entretenimiento
 
-Servicios
-
-Otros
+  2.6Servicios
 
 (Puedes usar un Spinner o Dropdown)
 
 3.  Pantalla principal (Dashboard)
 
-Mostrar:
+3.1Mostrar:
 
-Total ingresos del mes
+  3.2Total ingresos del mes
 
-Total gastos del mes
+  3.3Total gastos del mes
 
-Balance actual (ingresos - gastos)
+  3.4Balance actual (ingresos - gastos)
 
-Esto se puede hacer con consultas simples a Firebase.
+  3.5Esto se puede hacer con consultas simples a Firebase.
 
 4. Lista de movimientos
 
-RecyclerView
+  4.1RecyclerView
 
-Mostrar si es ingreso o gasto
+  4.2Mostrar si es ingreso o gasto
 
-Ordenados por fecha
+  4.3Ordenados por fecha
 
-Opción de eliminar
+  4.4Opción de eliminar
 
-Funcionalidades Intermedias (Aumenta nivel del proyecto)
+  4.5Funcionalidades Intermedias (Aumenta nivel del proyecto)
 
-Estas ya hacen que tu proyecto se vea MUCHO más profesional:
+  4.6Estas ya hacen que tu proyecto se vea MUCHO más profesional:
 
 5.  Presupuesto mensual por categoría
+  
+  5.1El usuario puede decir:
 
-El usuario puede decir:
+  5.2"Para comida tengo máximo $400.000"
 
-"Para comida tengo máximo $400.000"
+  5.3La app:
 
-La app:
+  Lleva el acumulado.
 
-Lleva el acumulado.
+  Muestra barra de progreso.
 
-Muestra barra de progreso.
+  Cambia a rojo cuando supera el límite.
 
-Cambia a rojo cuando supera el límite.
-
-Muestra alerta tipo Toast o Dialog.
+  Muestra alerta tipo Toast o Dialog.
 
 6.  Gráficas
 
-Puedes usar:
+  6.1Puedes usar:
 
-MPAndroidChart
+  6.2MPAndroidChart
 
-Gráficas recomendadas:
+  6.3Gráficas recomendadas:
 
-Barras -> Gastos por categoría
+  6.4Barras -> Gastos por categoría
 
-Pastel -> Distribución de gastos
+  6.5Pastel -> Distribución de gastos
 
-Esto hace que tu proyecto suba muchísimo de nivel visual.
+  6.6Esto hace que tu proyecto suba muchísimo de nivel visual.
 
 7.  Filtro por fechas
 
-Ver solo este mes
+  7.1Ver solo este mes
 
-Ver semana actual
+  7.2Ver semana actual
 
-Ver por rango personalizado
+  7.3Ver por rango personalizado
 
-Muy útil y no tan complejo.
+  7.4Muy útil y no tan complejo.
 
 8. Sistema de autenticación
 
-Con Firebase Authentication:
+  8.1Con Firebase Authentication:
 
-Registro
+  8.2Registro
 
-Login
+  8.3Login
 
-Cada usuario ve solo sus datos
+  8.4Cada usuario ve solo sus datos
 
-Esto lo vuelve más real.
+  8.5Esto lo vuelve más real.
